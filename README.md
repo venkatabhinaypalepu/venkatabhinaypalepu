@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/venkat--abhinay--palepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/venkat-abhinay-palepu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/venkatabhinay166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="venkatabhinay166" height="30" width="40" /></a>
-<a href="https://instagram.com/venkat_166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_venkat166" height="30" width="40" /></a>
+<a href="https://instagram.com/_venkat166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_venkat166" height="30" width="40" /></a>
 <a href="https://twitter.com/couchpotato166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="couchpotato166" height="30" width="40" /></a>
 </p>
 
